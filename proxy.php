@@ -23,7 +23,7 @@ function parseYoutube($data) {
   		
   	} 
   	
-  	echo json_encode($results);
+  	return json_encode($results);
 }
 
 
