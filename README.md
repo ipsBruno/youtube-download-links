@@ -1,5 +1,6 @@
 # youtube-download-links
-Parse Youtube video direct links in Javascript and PHP.
+This tool parse a direct links of Youtube Video in PHP/JS
+Useful to Youtuber Downloaders and Playback Video by direct url.
 
 
 # How to use
