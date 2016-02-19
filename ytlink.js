@@ -8,6 +8,7 @@
 getYoutubeInfo = function(proxy, id) {
 
 	url = proxy + '?id=' + id;
+
 	infoVideo = [];
 	
 	$.ajaxSetup({ async: false}); 
